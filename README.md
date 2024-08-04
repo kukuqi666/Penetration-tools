@@ -12,6 +12,34 @@
 
 ===============================================================
 
+## 子域名收集工具
+
+[OneForAll](https://github.com/shmilylty/OneForAll)
+
+[knock](https://github.com/guelfoweb/knock)
+
+[subbrute](https://github.com/TheRook/subbrute)
+
+[subdomain3](https://github.com/yanxiu0614/subdomain3)
+
+[sublist3r](https://github.com/aboul3la/Sublist3r)
+
+[dnsrecon](https://github.com/darkoperator/dnsrecon)
+
+[dnsenum](https://github.com/fwaeytens/dnsenum)
+
+[subDomainsBrute](https://github.com/lijiejie/subDomainsBrute)
+
+[JSFinderPlus](https://github.com/mickeystone/JSFinderPlus)
+
+[URLFinder](https://github.com/pingc0y/URLFinder)
+
+[JSFinder](https://github.com/Threezh1/JSFinder)
+
+=============================================================
+
+
+
 [TideSec/Tide](https://github.com/TideSec/Tide)
 
 
