@@ -42,6 +42,29 @@
 
 =============================================================
 
+## 网站信息收集
+
+[7kbscan-WebPathBrute](https://github.com/7kbstorm/7kbscan-WebPathBrute)
+
+[dirmap](https://github.com/H4ckForJob/dirmap)
+
+[dirsearch](https://github.com/maurosoria/dirsearch)
+
+[dirstalk](https://github.com/stefanoj3/dirstalk)
+
+[Dirscan-go](https://github.com/corunb/Dirscan)
+
+[DirScan-py](https://github.com/Degree-21/dirScan)
+
+[BBScan](https://github.com/lijiejie/BBScan)
+
+[wafw00f](https://github.com/EnableSecurity/wafw00f)
+
+
+
+
+
+
 
 
 [TideSec/Tide](https://github.com/TideSec/Tide)
