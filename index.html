@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Repository Direct Links</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            text-align: center;
+            color: #4a90e2;
+            margin-bottom: 20px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        h1::after {
+            content: '';
+            display: block;
+            width: 100px;
+            height: 4px;
+            background-color: #4a90e2;
+            margin: 10px auto;
+            animation: slideIn 1s forwards;
+        }
+
+        h2 {
+            font-size: 1.8em;
+            color: #333;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            background-color: #fff;
+            margin: 10px 0;
+            padding: 15px;
+            border-radius: 8px;
+            transition: box-shadow 0.3s ease;
+            position: relative;
+        }
+
+        li:hover {
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        a {
+            text-decoration: none;
+            color: #4a90e2;
+            font-weight: bold;
+        }
+
+        a:hover {
+            color: #3b7dbd;
+        }
+
+        @keyframes slideIn {
+            from {
+                width: 0;
+            }
+            to {
+                width: 100px;
+            }
+        }
+
+        .card {
+            background-color: #fff;
+            margin: 10px 0;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s ease-in-out;
+            overflow: hidden;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+        }
+
+        .card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 5px;
+            background-color: #4a90e2;
+            animation: grow 1s forwards;
+        }
+
+        @keyframes grow {
+            from {
+                width: 0;
+            }
+            to {
+                width: 100%;
+            }
+        }
+
+        .content {
+            position: relative;
+            z-index: 1;
+        }
+    </style>
+</head>
+
+<body>
+
+# Repository Direct Links
+
+## Web Shell Tools
+
+<ul>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/808Mak1r/GodzillaSource">**哥斯拉 (Godzilla)**</a>
+        <p>A web shell management tool with extensive features.</p>
+    </div>
+</li>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/BeichenDream/Godzilla">**哥斯拉源码 (Godzilla Source)**</a>
+        <p>Source code for the Godzilla web shell management tool.</p>
+    </div>
+</li>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/AntSwordProject/AntSword-Loader">**蚁剑加载器 (AntSword Loader)**</a>
+        <p>A loader for the AntSword web shell management tool.</p>
+    </div>
+</li>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/AntSwordProject/antSword">**蚁剑加载器核心文件 (AntSword Core Files)**</a>
+        <p>Core files for the AntSword web shell management tool.</p>
+    </div>
+</li>
+</ul>
+
+## Subdomain Enumeration Tools
+
+<ul>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/shmilylty/OneForAll">**OneForAll**</a>
+        <p>A powerful subdomain enumeration tool supporting multiple data sources.</p>
+    </div>
+</li>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/guelfoweb/knock">**knock**</a>
+        <p>A Python-based tool designed to enumerate subdomains on a target domain through a wordlist.</p>
+    </div>
+</li>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/TheRook/subbrute">**subbrute**</a>
+        <p>A DNS meta-query spider that enumerates DNS records, and subdomains using multiple techniques.</p>
+    </div>
+</li>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/yanxiu0614/subdomain3">**subdomain3**</a>
+        <p>An efficient tool for finding subdomains, combining multiple techniques.</p>
+    </div>
+</li>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/aboul3la/Sublist3r">**Sublist3r**</a>
+        <p>A Python-based tool designed to enumerate subdomains of websites using OSINT.</p>
+    </div>
+</li>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/darkoperator/dnsrecon">**dnsrecon**</a>
+        <p>DNS reconnaissance tool with the ability to enumerate records and check various DNS-related activities.</p>
+    </div>
+</li>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/fwaeytens/dnsenum">**dnsenum**</a>
+        <p>A multi-threaded Perl script to enumerate information on DNS domains.</p>
+    </div>
+</li>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/lijiejie/subDomainsBrute">**subDomainsBrute**</a>
+        <p>A subdomain enumeration tool that uses a dictionary-based brute force approach.</p>
+    </div>
+</li>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/mickeystone/JSFinderPlus">**JSFinderPlus**</a>
+        <p>A tool to find URLs and subdomains from JavaScript files.</p>
+    </div>
+</li>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/pingc0y/URLFinder">**URLFinder**</a>
+        <p>A simple and efficient tool to extract URLs from web pages.</p>
+    </div>
+</li>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/Threezh1/JSFinder">**JSFinder**</a>
+        <p>A tool for discovering URLs from JavaScript files for use in security assessments.</p>
+    </div>
+</li>
+</ul>
+
+## Additional Tools and Resources
+
+<ul>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/TideSec/Tide">**TideSec/Tide**</a>
+        <p>A comprehensive penetration testing framework.</p>
+    </div>
+</li>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/TideSec/Mars">**TideSec/Mars**</a>
+        <p>A security vulnerability scanner for various web technologies.</p>
+    </div>
+</li>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/TideSec/WDScanner">**TideSec/WDScanner**</a>
+        <p>A web vulnerability scanner designed for speed and efficiency.</p>
+    </div>
+</li>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/TideSec/FuzzScanner">**TideSec/FuzzScanner**</a>
+        <p>A tool for fuzz testing to discover vulnerabilities.</p>
+    </div>
+</li>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/rabbitmask/WeblogicScan">**rabbitmask/WeblogicScan**</a>
+        <p>A tool specifically for scanning and exploiting WebLogic Server vulnerabilities.</p>
+    </div>
+</li>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/TideSec/TideWave">**TideSec/TideWave**</a>
+        <p>A tool focused on the analysis and detection of network traffic anomalies.</p>
+    </div>
+</li>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/nian-hua/BurpExtender">**nian-hua/BurpExtender**</a>
+        <p>Extensions and scripts for enhancing Burp Suite's capabilities.</p>
+    </div>
+</li>
+<li class="card">
+    <div class="content">
+        <a href="https://github.com/TideSec/TideRadar">**TideSec/TideRadar**</a>
+        <p>A tool for real-time monitoring and alerting of network activities.</p>
+    </div>
+</li>
+</ul>
+
+</body>
+
+</html>
