@@ -84,13 +84,9 @@
 ====================================================
 
 
-[TideSec/Tide](https://github.com/TideSec/Tide)
-
 
 [TideSec/Mars](https://github.com/TideSec/Mars)
 
-
-[TideSec/WDScanner](https://github.com/TideSec/WDScanner)
 
 
 [TideSec/FuzzScanner](https://github.com/TideSec/FuzzScanner)
