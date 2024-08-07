@@ -95,7 +95,7 @@
 ====================================================
 ## 漏洞扫描
 
-[WeblogicScan](https://github.com/rabbitmask/WeblogicScan)
+[WeblogicScan-v1.5](https://github.com/rabbitmask/WeblogicScan)
 
 [Wordpresscan](https://github.com/swisskyrepo/Wordpresscan)
 
@@ -103,11 +103,9 @@
 
 [vulmap](https://github.com/zhzyker/vulmap)
 
+[WeblogicScan-v1.3.1](https://github.com/dr0op/WeblogicScan)
 
-
-
-
-
+===================================================
 
 
 
