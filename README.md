@@ -105,6 +105,8 @@
 
 [WeblogicScan-v1.3.1](https://github.com/dr0op/WeblogicScan)
 
+[weblogicScanner](https://github.com/0xn0ne/weblogicScanner)
+
 ===================================================
 
 
