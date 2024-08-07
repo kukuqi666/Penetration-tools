@@ -88,6 +88,29 @@
 
 [HaE](https://github.com/gh0stkey/HaE)
 
+[NEW_xp_CAPTCHA](https://github.com/smxiazi/NEW_xp_CAPTCHA)
+
+[captcha-killer](https://github.com/c0ny1/captcha-killer)
+
+====================================================
+## 漏洞扫描
+
+[WeblogicScan](https://github.com/rabbitmask/WeblogicScan)
+
+[Wordpresscan](https://github.com/swisskyrepo/Wordpresscan)
+
+[wpscan](https://github.com/wpscanteam/wpscan)
+
+[vulmap](https://github.com/zhzyker/vulmap)
+
+
+
+
+
+
+
+
+
 
 
 
