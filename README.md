@@ -107,6 +107,8 @@
 
 [weblogicScanner](https://github.com/0xn0ne/weblogicScanner)
 
+[Struts2-Scan](https://github.com/HatBoy/Struts2-Scan)
+
 ===================================================
 
 
