@@ -94,11 +94,8 @@
   
 [rabbitmask/WeblogicScan](https://github.com/rabbitmask/WeblogicScan)
  
-
-[TideSec/TideWave](https://github.com/TideSec/TideWave)
  
 
 [nian-hua/BurpExtender](https://github.com/nian-hua/BurpExtender)
 
 
-[TideSec/TideRadar](https://github.com/TideSec/TideRadar)
