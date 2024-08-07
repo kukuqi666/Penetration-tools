@@ -82,6 +82,13 @@
 
 
 ====================================================
+## burp插件
+
+[Authz](https://github.com/wuntee/BurpAuthzPlugin)
+
+[HaE](https://github.com/gh0stkey/HaE)
+
+
 
 
 
