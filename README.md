@@ -111,6 +111,23 @@
 
 [nitko](https://github.com/sullo/nikto)
 
+[zaproxy](https://github.com/zaproxy/zaproxy)
+
+[yakit](https://github.com/yaklang/yakit)
+
+[ARL](https://github.com/Aabyss-Team/ARL)
+
+[vscan](https://github.com/veo/vscan)
+
+[wfuzz](https://github.com/xmendez/wfuzz)
+
+[arachni](https://github.com/Arachni/arachni)
+
+[w3af](https://github.com/andresriancho/w3af)
+
+[zaproxy](https://github.com/zaproxy/zaproxy)
+
+
 ===================================================
 
 
