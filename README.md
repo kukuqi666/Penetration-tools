@@ -109,24 +109,16 @@
 
 [Struts2-Scan](https://github.com/HatBoy/Struts2-Scan)
 
+[nitko](https://github.com/sullo/nikto)
+
 ===================================================
-
-
-
-
-
 
 
 [TideSec/Mars](https://github.com/TideSec/Mars)
 
-
-
 [TideSec/FuzzScanner](https://github.com/TideSec/FuzzScanner)
-
   
 [rabbitmask/WeblogicScan](https://github.com/rabbitmask/WeblogicScan)
- 
- 
 
 [nian-hua/BurpExtender](https://github.com/nian-hua/BurpExtender)
 
