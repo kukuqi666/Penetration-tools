@@ -131,6 +131,12 @@
 ===================================================
 ## 其他
 
+[sqlmap](https://github.com/sqlmapproject/sqlmap)
+
+[FourEye](https://github.com/lengjibo/FourEye)
+
+[svnExploit](https://github.com/admintony/svnExploit)
+
 [TideSec/Mars](https://github.com/TideSec/Mars)
 
 [TideSec/FuzzScanner](https://github.com/TideSec/FuzzScanner)
