@@ -62,6 +62,8 @@
 
 [wafw00f](https://github.com/EnableSecurity/wafw00f)
 
+[yjdirscan](https://github.com/foryujian/yjdirscan)
+
 ==============================================================
 
 ## 漏洞靶场和漏洞文档
@@ -132,6 +134,8 @@
 ## 其他
 
 [sqlmap](https://github.com/sqlmapproject/sqlmap)
+
+[ThinkphpGui](https://github.com/Lotus6/ThinkphpGUI)
 
 [FourEye](https://github.com/lengjibo/FourEye)
 
