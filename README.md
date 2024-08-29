@@ -64,6 +64,8 @@
 
 [yjdirscan](https://github.com/foryujian/yjdirscan)
 
+[DirDar](https://github.com/M4DM0e/DirDar)
+
 ==============================================================
 
 ## 漏洞靶场和漏洞文档
@@ -132,6 +134,18 @@
 
 ===================================================
 ## 其他
+
+[reGeorg](https://github.com/sensepost/reGeorg)
+
+[weakfilescan](https://github.com/ring04h/weakfilescan)
+
+[xzbot](https://github.com/amlweems/xzbot)
+
+[JSINFO](https://github.com/p1g3/JSINFO-SCAN)
+
+[pocsuite3](https://github.com/knownsec/pocsuite3)
+
+[ysoserial](https://github.com/frohoff/ysoserial)
 
 [sqlmap](https://github.com/sqlmapproject/sqlmap)
 
